@@ -1,3 +1,6 @@
+# My Experience with tinkering Paxcounter
+** Below you will find original notes from Oliver Brandmueller Klaus Wilting 
+
 # ESP32-Paxcounter
 **Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards**
 
